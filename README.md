@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @ogpratik
-- 🥷 Software engineer
-- 👀 I’m interested in Software Development.
-- 💞️ I’m looking to collaborate on Computer Vision Projects.
-- 📫 Email- pratiik.pandey@gmail.com
+# 👋 Pratik Pandey
 
+🚀 Engineering Lead | Mobile Architecture | GenAI Systems  
+
+Building scalable mobile platforms and production-grade AI systems.  
+
+📱 Flutter · 🤖 LLM / GenAI · ⚙️ System Design  
+
+📫 pratiik.pandey@gmail.com  
+🔗 linkedin.com/in/ogpratik0998
