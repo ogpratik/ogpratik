@@ -8,4 +8,4 @@ Building scalable mobile platforms and production-grade AI systems.
 
 
 📫 [Email](mailto:pratiik.pandey@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/ogpratik0998/)
+🔗 [LinkedIn](https://www.linkedin.com/in/pratik0998)
